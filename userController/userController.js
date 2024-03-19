@@ -1,5 +1,5 @@
 const nodemailer = require('nodemailer');
-const { EMAIL, PASS } = require('../env');
+const { EMAIL, PASS } = require('../utils/config');
 
 
 
